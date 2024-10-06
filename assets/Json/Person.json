@@ -1,0 +1,20 @@
+[
+    {
+        "Name":"โจ",
+        "Age":"20",
+        "Job":"หมอ",
+        "Image": "assets/Image/pic1.jpg"
+    },
+    {
+        "Name":"เก่ง",
+        "Age":"32",
+        "Job":"วิศวกร",
+        "Image": "assets/Image/pic2.png"
+    },
+    {
+        "Name":"เต้",
+        "Age":"25",
+        "Job":"ครู",
+        "Image": "assets/Image/pic3.jpg"
+    }
+]
